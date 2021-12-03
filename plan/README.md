@@ -9,7 +9,7 @@ _Please complete all applicable._
 - **Estimated number of attendees**: 30
 - **Event location**: online
 - **Event website**: https://github.com/GitHub-Campus-IITM/Introduction-to-python
-- **Event description**: An itroductory session with hands on experience with python programming.
+- **Event description**: An introductory session with hands on experience with python programming.
 
 ## 🙋 What is your involvement in this event? 
 _Please tick all boxes that describe how you are involved in the event._
